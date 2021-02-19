@@ -6,7 +6,7 @@ I am a former Nutritionist who is now pursuing a career in Software Development/
 
 ## 🔭 I’m currently working on...
 
-Learning React and Redux in Epicodus.
+Learning React and Redux in Epicodus of Portland, OR.
 
 ## 📫 How to reach me:
 
