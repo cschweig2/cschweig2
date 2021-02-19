@@ -10,7 +10,8 @@ Learning React and Redux in Epicodus of Portland, OR.
 
 ## 📫 How to reach me:
 
-email: chelraebecker@gmail.com
+Email: chelraebecker@gmail.com
+LinkedIn: https://www.linkedin.com/in/chelsearaebecker/
 
 <!--
 **cschweig2/cschweig2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
