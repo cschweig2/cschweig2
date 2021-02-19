@@ -10,7 +10,7 @@ Learning React and Redux in Epicodus of Portland, OR.
 
 ## 📫 How to reach me:
 
-Email: chelraebecker@gmail.com
+Email: chelraebecker@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/chelsearaebecker/
 
 <!--
