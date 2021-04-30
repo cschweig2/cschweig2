@@ -6,7 +6,7 @@ I am a former Nutritionist who is now pursuing a career in Software Development/
 
 ## 🔭 I’m currently working on...
 
-personal projects, including a portfolio website, to keep busy while I apply for a full-time programming position.
+personal projects, including a portfolio website and learning Python, to keep busy while I apply for a full-time programming position.
 
 ## 🛠 Languages and Tools
 
