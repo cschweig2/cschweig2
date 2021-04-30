@@ -6,7 +6,7 @@ I am a former Nutritionist who is now pursuing a career in Software Development/
 
 ## 🔭 I’m currently working on...
 
-an internship with Netrush to complete the Mobile and Web Development certification with Epicodus coding school in Portland, OR. We're working on building a Blazor WebAssembly app with custom authentication and Firebase.
+personal projects, including a portfolio website, to keep busy while I apply for a full-time programming position.
 
 ## 🛠 Languages and Tools
 
