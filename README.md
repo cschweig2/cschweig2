@@ -2,7 +2,7 @@
 
 ## ⚡ About me
 
-I am a former Nutritionist who is now pursuing a career in Software Development/Engineering. My passions include creating things, the pursuit of knowledge, environmentalism, health & wellness, and raising 2 awesome dogs with my husband.
+I am a former Nutritionist, now a Software Engineer. My passions include creating things, the pursuit of knowledge, environmentalism, health & wellness, and raising 2 awesome dogs with my husband in the Pacific Northwest.
 
 ## 🔭 I’m currently working on...
 
