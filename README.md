@@ -2,7 +2,7 @@
 
 ## ⚡ About me
 
-I am a former Nutritionist, now a Software Engineer. My passions include creating things, the pursuit of knowledge, environmentalism, health & wellness, and raising 2 awesome dogs with my husband in the Pacific Northwest. Ask me about my full-stack software engineering bootcamp experience!
+I am a former Nutritionist, now a Software Engineer. My passions include creating things, the pursuit of knowledge, environmentalism, health & wellness, and raising a family with my husband in the Pacific Northwest. Ask me about my full-stack software engineering bootcamp experience!
 
 ## 🔭 I’m currently working on...
 
