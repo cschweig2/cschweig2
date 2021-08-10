@@ -6,7 +6,7 @@ I am a former Nutritionist, now a Software Engineer. My passions include creatin
 
 ## 🔭 I’m currently working on...
 
-personal projects, including a portfolio website and learning Python, to keep busy while I apply for a full-time programming position.
+code for my full-time position with Foureyes!
 
 ## 🛠 Languages and Tools
 
